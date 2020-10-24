@@ -1,0 +1,14 @@
+{
+  "name": "acnh-prices-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for fetching information about fish / bugs / sea creatures prices from nookipedia.com website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
